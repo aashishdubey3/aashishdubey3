@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Ashish Kumar</h1>
+  <h1>ASHISH KUMAR</h1>
   <h3>MERN Stack Developer | B.Tech CSE Graduate</h3>
   
   <a href="https://git.io/typing-svg">
@@ -68,7 +68,7 @@
         <a href="https://thelanternlibrary.vercel.app"><img src="https://img.shields.io/badge/▲_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </div>
       <br>
-      <p>A mobile-native interactive spatial workspace and media curator.</p>
+      <p>Curate. Create. Converse. A comprehensive spatial workspace for the modern bibliophile and cinephile.</p>
       <b>✨ Features</b>
       <ul>
         <li>Integrated TMDB & Google Books APIs</li>
