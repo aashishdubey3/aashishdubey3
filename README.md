@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ashish Kumar</h1>
-  <h3>MERN Stack Developer | Final-year B.Tech CSE Student</h3>
+  <h3>MERN Stack Developer | B.Tech CSE Graduate</h3>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CDA434&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions;Integrating+advanced+AI+features;Architecting+digital+ecosystems;Chess+Player+%26+Writer" alt="Typing SVG" />
@@ -96,6 +96,39 @@
     </td>
   </tr>
 </table>
+
+<h3>🔍 Inside The Lantern Library</h3>
+<p><i>Click to explore the architecture...</i></p>
+
+<details>
+  <summary><b>📖 The Digital Scrapbook & Library</b></summary>
+  <blockquote>
+    A dynamic workspace to organize books, movies, and series. Rate your collections, write detailed markdown notes, and curate your personal consumption history.
+    <br><br>
+    <i>(Add a link to a screenshot here: `<img src="link_to_scrapbook_image.png" width="500">`)</i>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🎭 AI Character Summons & The Oracle</b></summary>
+  <blockquote>
+    Interact with AI-driven characters for RPG-style outlining, or consult "The Oracle" for personalized media recommendations based on your unique consumption patterns.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>💬 Whisper & Community Threads</b></summary>
+  <blockquote>
+    Engage in broader community threads for literature and film analysis, or slide into "Whisper"—a fully integrated, real-time personal chat feature with a WhatsApp-like interface.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>📜 The Archives (Research & Articles)</b></summary>
+  <blockquote>
+    A dedicated hub to publish your own essays, read community articles, and search through academic research papers without leaving the ecosystem.
+  </blockquote>
+</details>
 
 <br>
 
